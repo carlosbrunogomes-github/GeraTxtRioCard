@@ -1,6 +1,8 @@
 # GeraTxtRioCard
 Script em python, utilizando PySimpleGUI, para a geração de arquivo txt a ser importado no sistema de Bilhetagem Eletrônica da RioCard, no Estado do Rio de Janeiro.
 
+As regras para a geração do arquivo txt se encontram no capítulo 2 do documento "PEF-V14-Ver1.6.0_-_Layouts_dos_arquivos_de_importacao_de_usuarios_e_pedidos", encontrado em https://www.cartaoriocard.com.br/rcc/paraEmpresa/downloads na seção Layouts dos Arquivos de importação.
+
 O módulo PySimpleGUI permite a interface gráfica, que recebe os seguintes dados (digitados ou usando CTRL + C/ CTRL + V):
 
 &emsp; Matrículas: à esquerda <br>
